@@ -1,0 +1,6 @@
+Kiekviena uþduotis pagal apraðymà turi bûti atskirame kataloge.
+1. p elementas turi eiti ta paèia vertikalia linija kaip ir h1 elementas, nes abu elementai yra tokio paèio lygio.
+2. Vietoj b ir br pakanka naudoti heading elementà. Antraðtëje naudoj vienà ið h elementø.
+3. Atitraukimai nuo kraðto negerai.
+4. Atitraukimus nuo kraðto reiktø sutvarkyti kode.
+5. Nerodo paveiksliukø pas mane. Kodël? Pabandyk pas save kompiuteryje perkelti ðios uþduoties failà ir atidaryti. Nerodys. Taip pat kodo stiliø reiktø stipriai sutvarkyti.
